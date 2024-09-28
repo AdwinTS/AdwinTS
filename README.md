@@ -42,6 +42,7 @@
   
   <br/><br/><br/>
 </div>
+<hr/>
 - 👋 Hi, I’m @AdwinTS
 - 🌱 I’m currently learning computer science engineering.I have experience as working as a intern in ibm. I have created many exciting projects mainly games you can enjoy playing with
 - 💞️ I’m looking to collaborate on variys situations where i can use my full knowledge about coding to reach and fulfill task given to me.
