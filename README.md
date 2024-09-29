@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Quiz Project based on Next.js**
+ 🔭 I’m currently working on **Protofolio Project based on Next.js**
  
  🌱 I’m currently learning **Next.js and  Django**
 
